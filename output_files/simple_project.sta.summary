@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'input_p'
+Slack : -5.804
+TNS   : -107.083
+
+Type  : Slow 1100mV 85C Model Setup 'Led_blink:module1|puls'
+Slack : -1.576
+TNS   : -8.945
+
+Type  : Slow 1100mV 85C Model Hold 'input_p'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Led_blink:module1|puls'
+Slack : 0.926
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'input_p'
+Slack : -0.538
+TNS   : -27.336
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Led_blink:module1|puls'
+Slack : -0.538
+TNS   : -4.610
+
+Type  : Slow 1100mV 0C Model Setup 'input_p'
+Slack : -5.984
+TNS   : -108.673
+
+Type  : Slow 1100mV 0C Model Setup 'Led_blink:module1|puls'
+Slack : -1.643
+TNS   : -9.319
+
+Type  : Slow 1100mV 0C Model Hold 'input_p'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Led_blink:module1|puls'
+Slack : 0.871
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'input_p'
+Slack : -0.538
+TNS   : -27.383
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Led_blink:module1|puls'
+Slack : -0.538
+TNS   : -4.634
+
+Type  : Fast 1100mV 85C Model Setup 'input_p'
+Slack : -2.774
+TNS   : -37.589
+
+Type  : Fast 1100mV 85C Model Setup 'Led_blink:module1|puls'
+Slack : -0.452
+TNS   : -2.532
+
+Type  : Fast 1100mV 85C Model Hold 'input_p'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Led_blink:module1|puls'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'input_p'
+Slack : -0.557
+TNS   : -14.594
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Led_blink:module1|puls'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'input_p'
+Slack : -2.525
+TNS   : -32.890
+
+Type  : Fast 1100mV 0C Model Setup 'Led_blink:module1|puls'
+Slack : -0.390
+TNS   : -2.192
+
+Type  : Fast 1100mV 0C Model Hold 'input_p'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Led_blink:module1|puls'
+Slack : 0.372
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'input_p'
+Slack : -0.601
+TNS   : -17.874
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Led_blink:module1|puls'
+Slack : 0.144
+TNS   : 0.000
+
+------------------------------------------------------------
